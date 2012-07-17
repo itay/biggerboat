@@ -1,0 +1,20 @@
+{
+  "author": "Itay Neeman <itay@neeman.net>",
+  "name": "biggerboat",
+  "description": "You're going to need a bigger boat",
+  "version": "0.0.1",
+  "bin": {
+    "biggerboat": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/itay/biggerboat.git"
+  },
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.4.9"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
